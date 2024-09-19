@@ -1,11 +1,11 @@
-.why {
+.why .why_reasons{
     position: relative;
 }
 
-.why > img {
+.why .why_reasons > img {
     position: absolute;
-    top: -100px;
-    left: 400px;
+    top: -225px;
+    left: 150px;
     z-index: -1;
 }
 
